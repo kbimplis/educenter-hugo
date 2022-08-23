@@ -134,10 +134,10 @@ address = "Bodrum Turkey"
 author = "Kaan Bimplis"
 contact_form_action = "#"
 description = "Kaan Bimplis Therapist, Coach, Consultant"
-email = "info@educenter.com"
+email = "kaan@kaanbimplis.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = ""
 top_header = true
 [params.cookies]
 enable = true
